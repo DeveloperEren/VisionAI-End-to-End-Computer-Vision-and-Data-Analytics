@@ -1,0 +1,6 @@
+__pycache__/
+detected_images/
+.venv/
+env/
+*.pyc
+.DS_Store
