@@ -1,4 +1,4 @@
-# VisionAI: Core Analytics Engine
+# VisionAI: VisionAI-End-to-End-Computer-Vision-and-Data-Analytics
 
 An end-to-end computer vision and data analytics pipeline designed for real-time object detection, automated logging, and dynamic operational monitoring.
 
